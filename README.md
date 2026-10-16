@@ -1,7 +1,7 @@
 # 🎓 SOC & Incubadora de Hackers Éticos del Sur — Tecnológico del Azuay
 **Modelo curricular y laboratorio cívico de formación de especialistas en defensa cibernética y banca digital en el sur del Ecuador**
 
-* **Director y Proponente Estratégico:** Damian Fabricio Macancela Caguana — Miembro del Consejo del Tecnológico del Azuay | Jefe de Sistemas & Ciberdefensa
+* **Proponente y Representante Estudiantil:** Damian Fabricio Macancela Caguana — Miembro del Consejo del Tecnológico del Azuay | Estudiante de Ciberseguridad
 * **Visión 2026-2030:** Transformar la provincia del Azuay en el primer semillero soberano de auditores informáticos, operadores de Centros de Operaciones de Seguridad (SOC) y desarrolladores de tecnologías cívicas de Hispanoamérica.
 * **Artículo Fundacional en Bitácora:** [El Tecnológico del Azuay como Incubadora de Hackers Éticos](https://damianmacancela.github.io/blog/tecnologico-azuay-incubadora-hackers-eticos.html)
 
